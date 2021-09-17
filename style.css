@@ -1,4 +1,8 @@
 .jumbotron {
-  padding: 2rem 1rem;
+  padding-top: 2rem;
   background-color: #6930c3;
+}
+
+.img-card {
+  width: 200;
 }
